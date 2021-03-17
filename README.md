@@ -1,2 +1,12 @@
+![traipse](logo.png)
 # traipse
-A project practicing working of fetch, async, and await, the information is requested from the Foursquare API and OpenWeather API to create a travel website. Learned at codecademy.com
+It allows a user to search for any location and returns the current weather of the location and random places in that area that might be of interest.
+
+---
+Technologies used
+  + JS
+  + CSS
+  + OpenWeatherMap as Weather API (openweathermap.org)
+  + FourSquare as Places API (foursquare.com)
+ 
+
